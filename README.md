@@ -4,6 +4,8 @@ awd 批量攻击脚本
 <h1>用法</h1>
 <h3>判断存活ip</h3>
 ip.py<br>
+
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 ![image](https://github.com/Master-0-0/AWD-script/assets/54020830/882b7435-62db-4d6a-bb36-79e4485563dd)
 <h3>读取flag</h3>
 attack_get.py && attack_post.py 读取flag<br>

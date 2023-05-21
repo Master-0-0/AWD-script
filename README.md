@@ -4,9 +4,12 @@ awd 批量攻击脚本
 <h1>用法</h1>
 <h3>判断存活ip</h3>
 ip.py<br>
-![1](https://github.com/Master-0-0/AWD-script/assets/54020830/7eb8b4e4-1707-42a8-99cc-e676ff7bb844)
-
 <img src="https://github.com/Master-0-0/AWD-script/blob/main/image/1.png" width="50%" height="50%" />
+
+
+![1](https://github.com/Master-0-0/AWD-script/assets/54020830/5d07b1fa-e31f-47fc-b6b7-d8ee4f52a8b0)
+
+
 <h3>读取flag</h3>
 attack_get.py && attack_post.py 读取flag<br>
 batch_GET.py && batch_POST.py 批量读取flag并提交<br>

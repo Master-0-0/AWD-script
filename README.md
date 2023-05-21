@@ -16,7 +16,8 @@ batch_GET.py && batch_POST.py 批量读取flag并提交<br>
 <h3>批量写入不死马</h3>
 code_exec.py<br>
 <img src="https://github.com/Master-0-0/AWD-script/blob/main/image/2.png" width="50%" height="50%" />
-![2](https://github.com/Master-0-0/AWD-script/assets/54020830/01b8158f-cf34-4946-bd7d-cb627a2e84a5)
+![2](https://github.com/Master-0-0/AWD-script/assets/54020830/5e3bce7c-7e82-4130-a0f1-3d69466281d6)
+
 
 <h3>批量上传shell</h3>
 upload.py
